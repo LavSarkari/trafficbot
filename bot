@@ -4,7 +4,7 @@ import webbrowser
 import time
 x = 1
 while True:
-  webbrowser.open('http://url/')
+  webbrowser.open('http://LavSarkari.blogspot.com/')
   time.sleep(15)
 	webbrowser.open_new_tab('http://url/')
 	time.sleep(10)
